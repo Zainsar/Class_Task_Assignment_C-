@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\Class_Task_Assignment\Class_Task_Assignment\bin\Debug\net7.0\Class_Task_Assignment.exe
+C:\Users\HP\source\repos\Class_Task_Assignment\Class_Task_Assignment\bin\Debug\net7.0\Class_Task_Assignment.deps.json
+C:\Users\HP\source\repos\Class_Task_Assignment\Class_Task_Assignment\bin\Debug\net7.0\Class_Task_Assignment.runtimeconfig.json
+C:\Users\HP\source\repos\Class_Task_Assignment\Class_Task_Assignment\bin\Debug\net7.0\Class_Task_Assignment.dll
+C:\Users\HP\source\repos\Class_Task_Assignment\Class_Task_Assignment\bin\Debug\net7.0\Class_Task_Assignment.pdb
+C:\Users\HP\source\repos\Class_Task_Assignment\Class_Task_Assignment\obj\Debug\net7.0\Class_Task_Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\Class_Task_Assignment\Class_Task_Assignment\obj\Debug\net7.0\Class_Task_Assignment.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Class_Task_Assignment\Class_Task_Assignment\obj\Debug\net7.0\Class_Task_Assignment.AssemblyInfo.cs
+C:\Users\HP\source\repos\Class_Task_Assignment\Class_Task_Assignment\obj\Debug\net7.0\Class_Task_Assignment.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Class_Task_Assignment\Class_Task_Assignment\obj\Debug\net7.0\Class_Task_Assignment.dll
+C:\Users\HP\source\repos\Class_Task_Assignment\Class_Task_Assignment\obj\Debug\net7.0\refint\Class_Task_Assignment.dll
+C:\Users\HP\source\repos\Class_Task_Assignment\Class_Task_Assignment\obj\Debug\net7.0\Class_Task_Assignment.pdb
+C:\Users\HP\source\repos\Class_Task_Assignment\Class_Task_Assignment\obj\Debug\net7.0\Class_Task_Assignment.genruntimeconfig.cache
+C:\Users\HP\source\repos\Class_Task_Assignment\Class_Task_Assignment\obj\Debug\net7.0\ref\Class_Task_Assignment.dll
